@@ -13,7 +13,8 @@ a Texas Hold 'Em hand.
 
      java TexasHoldEm <run mode> <number of players>
      
-          <run mode>: "-t" to run a predetermined test version with unit test results printed to stdout, "-p" to simulate a                           random game of Texas Hold `Em
+          <run mode>: "-t" to run a predetermined test version with unit test results printed to stdout, 
+                         "-p" to simulate random game of Texas Hold `Em
           <number of players>: The number of players in the game of Texas Hold `Em. Only required for "-p" run mode. 
           
 
