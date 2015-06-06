@@ -19,7 +19,7 @@ a Texas Hold 'Em hand.
           
 # Tests
 
-This program contains a suite of unit tests that tests the ability to determine each possible hand in a game of Texas Hold `Em as well as the program's ability to determine the winning player in the game, with consideration to kickers. The unit tests are located in the "TexasHoldEmTester" class. Please note, I wrote this program while I was only in my second ever Computer Science class (outside of the course, as part of an internship application process) and was not aware of the JUnit package, so I wrote each test's functionality from scratch. I will likely refactor it using JUnit at some point, but please feel free to refactor it and commit those changes if you would like. The "TexasHoldEmTester" class relies on the "PokerTableTest" which deals cards in a predetermined fashion for testing purposes.
+This program contains a suite of unit tests that tests the ability to determine each possible hand in a game of Texas Hold `Em as well as the program's ability to determine the winning player in the game, with consideration to kickers. The unit tests are located in the "TexasHoldEmTester" class. Please note, I wrote this program while I was only in my second ever Computer Science class (outside of the course, as part of an internship application process) and was not aware of the JUnit package, so I wrote each test's functionality from scratch. I will likely refactor it using JUnit at some point. The "TexasHoldEmTester" class relies on the "PokerTableTest" which deals cards in a predetermined fashion for testing purposes.
           
 
 # Included Files 
