@@ -5,6 +5,10 @@ determine who the winner of the hand is, with consideration to the kicker of eac
 well as whether or not the hand has been folded. Additionally, the user can choose to simulate
 a Texas Hold 'Em hand.
 
+# Compiling
+
+     javac TexasHoldEm.java
+
 # Included Files 
 
      TexasHoldEm.java - Driver class that accepts the command line argument "-t" or "-p"
