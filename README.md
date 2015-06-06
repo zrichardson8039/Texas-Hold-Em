@@ -7,7 +7,7 @@ a Texas Hold 'Em hand.
 
 # Included Files 
 
-     TexasHoldEm.java - <i>Driver class that accepts the command line argument "-t" or "-p"</i>
+     TexasHoldEm.java - Driver class that accepts the command line argument "-t" or "-p"
      TexasHoldEmTester.java - Class that tests the effectiveness of each algorithm used to determine
                               the winning hand.
      PokerTable.java - Class that simulates an individual hand of Texas Hold 'Em where no player folds.
